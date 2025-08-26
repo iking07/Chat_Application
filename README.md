@@ -2,7 +2,7 @@
 
 A simple yet robust real-time chat application built with Python using TCP sockets and threading. This application supports multiple concurrent clients with real-time message broadcasting and username handling.
 
-## 🚀 Features
+##  Features
 
 - **Multi-client support**: Handle multiple users simultaneously
 - **Real-time messaging**: Instant message delivery to all connected clients
@@ -21,12 +21,12 @@ A simple yet robust real-time chat application built with Python using TCP socke
   - `argparse` - Command-line argument parsing
   - `sys` - System-specific parameters
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.6 or higher
 - No external dependencies required (uses only built-in libraries)
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 chat-application/
